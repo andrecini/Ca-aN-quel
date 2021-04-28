@@ -1,0 +1,10 @@
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\bin\Debug\ProjetoCacaNiquel.exe.config
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\bin\Debug\ProjetoCacaNiquel.exe
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\bin\Debug\ProjetoCacaNiquel.pdb
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.csprojAssemblyReference.cache
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.Form1.resources
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.Properties.Resources.resources
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.csproj.GenerateResource.cache
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.csproj.CoreCompileInputs.cache
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.exe
+C:\Users\andre_000\Desktop\ProjetoCacaNiquel\obj\Debug\ProjetoCacaNiquel.pdb
